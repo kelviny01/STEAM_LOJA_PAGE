@@ -1,0 +1,111 @@
+@media (max-width: 320px) {
+    .content__config {
+        display: none;
+    }
+
+    .content__navigation {
+        display: none;
+    }
+
+    .content__options {
+        height: 2000px;
+    }
+
+    .content__plays {
+        height: auto;
+    }
+
+    .content__items2 {
+        display: none;
+    }
+
+    .content__search {
+        display: none;
+    }
+
+    #content__image {
+        background: rgba(0 0 0 / 0.4) url(../img/RDO_Standalone_EGS_LandscapeProductImage_2560x1440_Deliverable-2560x1440-45e6e019bf7e0a5e13756d144fc9ba1d\ 1.png);
+        background-position-x: 50%;
+        background-repeat: no-repeat;
+    }
+
+    .content__text .content--pharag {
+        font-size: 11px;
+        margin-left: -11rem;
+    }
+
+    .content__text img {
+        width: 100px;
+        margin-left: -8rem;
+        margin-top: 4rem;
+    }
+
+    .btn {
+        margin-left: -11rem;
+    }
+
+    .btn .btn-1 {
+        padding: 7px 45px;
+    }
+
+    .content__dasheds span {
+        width: 40px;
+    }
+
+}
+
+@media (max-width: 375px) {
+    .content__config {
+        display: none;
+    }
+
+    .content__navigation {
+        display: none;
+    }
+
+    .content__options {
+        height: 2000px;
+    }
+
+    .content__plays {
+        height: auto;
+    }
+
+    .content__items2 {
+        display: none;
+    }
+
+    .content__search {
+        display: none;
+    }
+
+    #content__image {
+        background: rgba(0 0 0 / 0.4) url(../img/RDO_Standalone_EGS_LandscapeProductImage_2560x1440_Deliverable-2560x1440-45e6e019bf7e0a5e13756d144fc9ba1d\ 1.png);
+        background-position-x: 50%;
+        background-repeat: no-repeat;
+    }
+
+    .content__text .content--pharag {
+        font-size: 11px;
+        margin-left: -9rem;
+    }
+
+    .content__text img {
+        width: 100px;
+        margin-left: -6rem;
+        margin-top: 4rem;
+    }
+
+    .btn {
+        margin-left: -9rem;
+    }
+
+    .btn .btn-1 {
+        padding: 7px 45px;
+    }
+
+    .content__dasheds span {
+        width: 40px;
+    }
+
+}
